@@ -1,5 +1,6 @@
 /**
- * Configuration Parameters for the project
+ * Configuration Parameters for the project.
+ * The ubiquitous config class. 
  */
 package Config;
 
